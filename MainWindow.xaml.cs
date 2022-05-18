@@ -33,12 +33,6 @@ namespace Sliyanie_Vetok
                 Rez.Content = "Введите оба значения!";
                 return;
             }
-            if (Convert.ToDouble(ch2)==0)
-            {
-                Rez.Content = "На 0 делить нельзя!";
-                return;
-            }
-
             Rez.Content = Convert.ToDouble(ch1) / Convert.ToDouble(ch2);
         }
     }
