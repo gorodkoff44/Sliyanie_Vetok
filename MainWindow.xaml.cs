@@ -40,5 +40,17 @@ namespace Sliyanie_Vetok
             }
             Rez.Content = Convert.ToDouble(ch1) / Convert.ToDouble(ch2);
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string ch1 = textBoxChisl.Text.Replace('.', ','); //замена . на ,
+            string ch2 = textBoxChisl2.Text.Replace('.', ',');
+            if ((textBoxChisl.Text == "") || (textBoxChisl2.Text == ""))
+            {
+                Rez.Content = "Введите оба значения!";
+                return;
+            }
+            Rez.Content = Convert.ToDouble(ch1) + Convert.ToDouble(ch2);
+        }
     }
 }
