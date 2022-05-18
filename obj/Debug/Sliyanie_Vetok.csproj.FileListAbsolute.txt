@@ -1,0 +1,15 @@
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\bin\Debug\Sliyanie_Vetok.exe.config
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\bin\Debug\Sliyanie_Vetok.exe
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\bin\Debug\Sliyanie_Vetok.pdb
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.csproj.AssemblyReference.cache
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\MainWindow.g.cs
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\App.g.cs
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok_MarkupCompile.cache
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok_MarkupCompile.lref
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\MainWindow.baml
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.g.resources
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.Properties.Resources.resources
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.csproj.GenerateResource.cache
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.csproj.CoreCompileInputs.cache
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.exe
+C:\Users\comp0712\source\repos\gorodkov\Sliyanie_Vetok\obj\Debug\Sliyanie_Vetok.pdb
