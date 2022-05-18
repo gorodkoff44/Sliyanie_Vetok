@@ -33,7 +33,7 @@ namespace Sliyanie_Vetok
                 Rez.Content = "Введите оба значения!";
                 return;
             }
-            Rez.Content = Convert.ToDouble(ch1) / Convert.ToDouble(ch2);
+            Rez.Content = Convert.ToDouble(ch1) + Convert.ToDouble(ch2);
         }
     }
 }
