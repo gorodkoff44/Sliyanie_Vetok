@@ -10,7 +10,7 @@
     <Grid>
         <TextBox x:Name="textBoxChisl" Margin="53,186,648,177" TextWrapping="NoWrap" MaxLength="5" />
         <TextBox x:Name="textBoxChisl2" Margin="179,186,522,177" TextWrapping="NoWrap" MaxLength="5" />
-        <Button Name="Umn" Content="Сложить" Button.Click="Button_Click" Margin="314,197,353,177"/>
+        <Button Name="Razd" Content="Разделить" Button.Click="Button_Click2" Margin="309,125,358,249"/>
         <Label Name="Rez" Content="Результат" Margin="463,186,0,158" FontSize="30" />
     </Grid>
 </Window>

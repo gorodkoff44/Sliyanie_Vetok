@@ -24,7 +24,7 @@ namespace Sliyanie_Vetok
         {
             InitializeComponent();
         }
-        public void Button_Click(object sender, RoutedEventArgs e)
+        public void Button_Click2(object sender, RoutedEventArgs e)
         {
             string ch1 = textBoxChisl.Text.Replace('.', ','); //замена . на ,
             string ch2 = textBoxChisl2.Text.Replace('.', ',');
@@ -33,8 +33,13 @@ namespace Sliyanie_Vetok
                 Rez.Content = "Введите оба значения!";
                 return;
             }
+            if (Convert.ToDouble(ch2)==0)
+            {
+                Rez.Content = "На 0 делить нельзя!";
+                return;
+            }
 
-            Rez.Content = Convert.ToDouble(ch1) + Convert.ToDouble(ch2);
+            Rez.Content = Convert.ToDouble(ch1) / Convert.ToDouble(ch2);
         }
     }
 }
